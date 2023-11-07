@@ -1,7 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 main {
     background-image: url("./a\ béke\ szigete.webp");
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
     background-size: cover;
     width: auto;
     height: 98vh;
